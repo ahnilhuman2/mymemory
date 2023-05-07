@@ -3,7 +3,8 @@
 
 # JPA Repository / RestApi 구현 / JWT  / Spring Security (BcryptPasswordEncoder) / CI/CD / 비동기 Api 구현
 
-배포 주소 : https://www.mymemory.site/
+### 배포 주소 : https://www.mymemory.site/ <br>
+### 배포된 RestAPI swagger : https://www.mymemory.site/swagger-ui.html#/
 
 ### 📌 프로젝트 기술스택
 - 에디터 : Intellij Ultimate
